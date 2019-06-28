@@ -1,0 +1,11 @@
+--------------MarkSheet------------
+Name=------Amir------
+rollnum=1122
+Maths=77
+Chemistry=69
+Physics=75
+Computer=81
+English=65
+max marks=500
+Obtained marks=367
+Percentage=73.4
